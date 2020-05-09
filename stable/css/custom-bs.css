@@ -164,9 +164,11 @@ pre {
 figure {
   margin: 0 0 1rem; }
 
-img {
-  vertical-align: middle;
-  border-style: none; }
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
 svg {
   overflow: hidden;
